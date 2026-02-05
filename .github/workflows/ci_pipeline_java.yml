@@ -74,4 +74,4 @@ jobs:
         with:
           name: application-jar
           path: build/libs/*.jar
-          retention-days: 
+          retention-days: 30
