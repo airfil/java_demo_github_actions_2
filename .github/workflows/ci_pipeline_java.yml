@@ -1,4 +1,4 @@
-name: CI - Lint e Test e Build
+name: CI - Lint e Test e Build2
 
 on:
   push:
